@@ -2,7 +2,7 @@
 ## Udagram Monolith - FullStack App on AWS
 
 This project is part of udacity cloud developer nanodegree
-This project is part of udacity cloud developer nanodegree - [Repository link](https://github.com/niyofestus/udagram)
+This project is part of udacity cloud developer nanodegree - [Repository link](https://github.com/niyofestus/udagramproject)
 
 
-[AWS site link](http://niyofesto.us-east-2.elasticbeanstalk.com/) 
+[AWS site link](http://niyitanga.us-east-2.elasticbeanstalk.com/) 
